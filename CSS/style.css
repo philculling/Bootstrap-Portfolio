@@ -1,3 +1,26 @@
-p {
-    color:blueviolet;
-}
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: transparent !important;
+    background-size: cover;
+    z-index: 10;
+  }
+
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+
+.customNav a, .customNav .navbar-brand {
+    color: white !important;
+  }
+
+/*  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }Kept in case needed, but at the moment we have no image*/
+  
+  .nav-item {
+    margin: 0px 15px;
+  }
