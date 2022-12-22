@@ -24,3 +24,25 @@
   .nav-item {
     margin: 0px 15px;
   }
+
+  /* Jumbotron  */
+.jumbotron {
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    background-color: aqua;
+  }
+  
+  /* Jumbotron copy */
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    text-align: center;
+  }
+
+  .jumbotron img {
+    height: 50%;
+  }
