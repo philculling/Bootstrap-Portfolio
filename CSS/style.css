@@ -46,3 +46,20 @@
   .jumbotron img {
     height: 50%;
   }
+
+  .sectionHeading {
+    text-align: center;
+  }
+
+  .Work {
+    padding: 0px 30px 30px 30px;
+  }
+
+  .cardContainer {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .card {
+    margin: 0 auto;
+  }
