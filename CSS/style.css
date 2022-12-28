@@ -77,3 +77,42 @@
     background: #007bff;
     width: 15px;
   }
+
+  .list-left {
+    float:left;
+  }
+
+  .list-right {
+    float: right;
+  }
+
+  #contact {
+    margin: 20px;
+    border-style: solid;
+    border-width: medium;
+    border-color: black;
+    display: grid;
+    background-color: #3D5467;
+    grid-template-columns: 25% 75%;
+    grid-template-areas:
+    "Contact ContactContentArea"
+    ;
+  }
+  
+  #Contact {
+    grid-area: Contact;
+  }
+
+  #Contact Content Area {
+    grid-area: ContactContentArea;
+  }
+
+  .categoryGridArea ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .categoryGridArea li {
+  padding: 0px;
+  display: inline;
+}
