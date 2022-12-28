@@ -32,7 +32,7 @@
     align-items: center;
     justify-content: space-between;
     text-align: center;
-    background-color: aqua;
+    background-color:  #73b3e8;
   }
   
   /* Jumbotron copy */
@@ -92,7 +92,7 @@
     border-width: medium;
     border-color: black;
     display: grid;
-    background-color: #3D5467;
+    background-color: #73b3e8;
     grid-template-columns: 25% 75%;
     grid-template-areas:
     "Contact ContactContentArea"
