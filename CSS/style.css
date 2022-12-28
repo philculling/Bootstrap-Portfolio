@@ -95,8 +95,7 @@
     background-color: #73b3e8;
     grid-template-columns: 25% 75%;
     grid-template-areas:
-    "Contact ContactContentArea"
-    ;
+    "Contact ContactContentArea";
   }
   
   #Contact {
@@ -115,4 +114,8 @@
   .categoryGridArea li {
   padding: 0px;
   display: inline;
-}
+  }
+
+  .categoryGridArea a {
+  color: black !important;
+  }
