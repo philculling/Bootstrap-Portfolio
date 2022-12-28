@@ -63,3 +63,17 @@
   .card {
     margin: 0 auto;
   }
+
+  .content {
+    padding: 50px;
+  }
+
+  .valueProp {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .sideAccent {
+    background: #007bff;
+    width: 15px;
+  }
