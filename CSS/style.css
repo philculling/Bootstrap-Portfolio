@@ -7,7 +7,7 @@
     z-index: 10;
   }
 
-  .navbar-nav {
+.navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
   }
@@ -16,12 +16,7 @@
     color: white !important;
   }
 
-/*  .navbar-brand img {
-    padding-right: 15px;
-    width: 65px;
-  }Kept in case needed, but at the moment we have no image*/
-  
-  .nav-item {
+.nav-item {
     margin: 0px 15px;
   }
 
@@ -36,57 +31,57 @@
   }
   
   /* Jumbotron copy */
-  .jumboCopy {
+.jumboCopy {
     width: 70%;
     min-width: 500px;
     max-width: 700px;
     text-align: center;
   }
 
-  .jumbotron img {
+.jumbotron img {
     height: 50%;
   }
 
-  .sectionHeading {
+.sectionHeading {
     text-align: center;
   }
 
-  .Work {
+.Work {
     padding: 0px 30px 30px 30px;
   }
 
-  .cardContainer {
+.cardContainer {
     text-align: center;
     margin-top: 20px;
   }
 
-  .card {
+.card {
     margin: 0 auto;
   }
 
-  .content {
+.content {
     padding: 50px;
   }
 
-  .valueProp {
+.valueProp {
     margin-top: 15px;
     margin-bottom: 15px;
   }
 
-  .sideAccent {
+.sideAccent {
     background: #007bff;
     width: 15px;
   }
 
-  .list-left {
+.list-left {
     float:left;
   }
 
-  .list-right {
+.list-right {
     float: right;
   }
 
-  #contact {
+#contact {
     margin: 20px;
     border-style: solid;
     border-width: medium;
@@ -98,28 +93,28 @@
     "Contact ContactContentArea";
   }
   
-  #Contact {
+#Contact {
     grid-area: Contact;
   }
 
-  #Contact Content Area {
+#Contact Content Area {
     grid-area: ContactContentArea;
   }
 
-  .categoryGridArea ul {
+.categoryGridArea ul {
     display: flex;
     justify-content: space-around;
   }
 
-  .categoryGridArea li {
+.categoryGridArea li {
   padding: 0px;
   display: inline;
   }
 
-  .categoryGridArea a {
+.categoryGridArea a {
   color: black !important;
   }
 
- a:hover, .btn:hover {
+a:hover, .btn:hover {
   box-shadow: 5px 10px red;
  }
