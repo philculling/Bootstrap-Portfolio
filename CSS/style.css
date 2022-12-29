@@ -119,3 +119,7 @@
   .categoryGridArea a {
   color: black !important;
   }
+
+ a:hover, .btn:hover {
+  box-shadow: 5px 10px red;
+ }
