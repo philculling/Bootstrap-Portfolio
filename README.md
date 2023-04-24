@@ -1,10 +1,8 @@
 Write notes here about the things you want to add or improve.
 Frequent commits - now it's to ensure no loss of work rather than because of meeting course requirements.
 
-Study properly your CSS for similar reasons.
-Commit.
-Add the rest of your projects.
-Remove the placeholder projects.
+Update the GitHub links for cards 4 to 12
+Remove or replace the placeholder projects.
 Decide whether or not to include the early ones: do they show a journey or are they just rubbish?!
 If you decide to use them all and treat the site as a 'journey', update the week 1 challenge screenshot as it's bland and rubbish.
 Mark the jumbotron section smaller (assuming the jumbotron section is the one containing the photo).
