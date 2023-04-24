@@ -1,7 +1,6 @@
 .customNav {
     position: fixed;
     width: 100%;
-    /*background: url("../Images/transparency.png")*/
     background-color: black !important;
     background-size: cover;
     z-index: 10;
@@ -22,7 +21,7 @@
 
   /* Jumbotron  */
 .jumbotron {
-    height: calc(100vh - 25px);
+    height: calc(50vh - 50px);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -32,19 +31,24 @@
   
   /* Jumbotron copy */
 .jumboCopy {
-    width: 70%;
+    width: 90%;
     min-width: 500px;
     max-width: 700px;
     text-align: center;
   }
 
 .jumbotron img {
-    height: 50%;
+    height: 200px;
+    padding-top: 40px;
   }
 
 .sectionHeading {
     text-align: center;
   }
+
+.projects {
+  background-color:aquamarine;
+}
 
 .Work {
     padding: 0px 30px 30px 30px;
@@ -59,7 +63,11 @@
     margin: 0 auto;
   }
 
-.content {
+  .skills {
+    background-color: burlywood;
+  }
+
+  .content {
     padding: 50px;
   }
 
@@ -95,26 +103,26 @@
   
 #Contact {
     grid-area: Contact;
-  }
-
-#Contact Content Area {
-    grid-area: ContactContentArea;
+    margin-left: 5px;
   }
 
 .categoryGridArea ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    float: right;
   }
 
 .categoryGridArea li {
-  padding: 0px;
+  padding-right: 5px;
   display: inline;
+  margin-left: 30px;
+  margin-top: 10px;
   }
 
 .categoryGridArea a {
-  color: black !important;
+  color: black;
   }
 
 a:hover, .btn:hover {
-  box-shadow: 5px 10px red;
+  box-shadow: 10px 10px;
  }
