@@ -1,27 +1,3 @@
-Write notes here about the things you want to add or improve.
-Frequent commits - now it's to ensure no loss of work rather than because of meeting course requirements.
-
-Update the GitHub links for cards 4 to 12
-Remove or replace the placeholder projects.
-Decide whether or not to include the early ones: do they show a journey or are they just rubbish?!
-If you decide to use them all and treat the site as a 'journey', update the week 1 challenge screenshot as it's bland and rubbish.
-Mark the jumbotron section smaller (assuming the jumbotron section is the one containing the photo).
-Crop the photo.
-Check the github link at the bottom.
-Make the Contact bar at the bottom the full width.
-Fill in the white space between the jumbotron section and the section below it.
-Edit the email address at the bottom to be a mailto feature.
-Give some background color or other styling to the section below the jumbotron.
-Update the hover color feature as it's a bit rubbish. This is in both the navbar and the section at the bottom.
-Update the text in the jumbotron.
-Check the links in the navbar.
-Update the text in the skills to be developed section to be more like skills studied, complete with accurate references to HTML5 as opposed to html, etc. Get this from your started react-portfolio.
-Check the github link in the contact section.
-Try to center your photo in the Jumbotron section.
-Think about the subscribe for updates: does it do anything, do you want it to do anything, can you work out how to do it? If it's pointless, remove it.
-Make the work cards all the same size.
-Improve this README.
-
 # Bootstrap-Portfolio
 Personal portfolio using Bootstrap (week 3 challenge)
 
